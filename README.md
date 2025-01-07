@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">
-    <img src="https://miro.medium.com/max/1200/1*XnK1y1r3BoD7X7C-YYJ0CQ.png" alt="Blog Post Thumbnail" width="400"/>
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*OP1qwfq6Tra9TtIVeTCvVw.jpeg" alt="Blog Post Thumbnail" width="400"/>
 </a>
 <p><a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">Read More</a></p>
 
