@@ -14,9 +14,13 @@
 
 - 📫 How to reach me **harris.giki@gmail.com**
 
+
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">
+    <img src="https://miro.medium.com/max/1200/1*XnK1y1r3BoD7X7C-YYJ0CQ.png" alt="Blog Post Thumbnail" width="400"/>
+</a>
+<p><a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">Read More</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
