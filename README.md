@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Harris</h1>
 <h3 align="center">A passionate ML/DL and Web Development Student from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw2yJpK0KEHEMGBKBLlJjp8v&ust=1736321126360000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjq1bOK44oDFQAAAAAdAAAAABAZ](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 👯 I’m looking to collaborate on **ML/DL based Research**
 
