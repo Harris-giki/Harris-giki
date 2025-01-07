@@ -16,6 +16,7 @@
 
 
 ### Blogs posts
+<h3 align="center">Exploring the relationship between ADHD and Dementia</h3>
 <a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*OP1qwfq6Tra9TtIVeTCvVw.jpeg" alt="Blog Post Thumbnail" width="400"/>
 </a>
