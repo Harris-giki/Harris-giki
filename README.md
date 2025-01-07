@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **ML/DL based Research**
 
-- 🤝 I’m looking for help with **software and AI**
+- 🤝 I’m looking to help with **software and AI**
 
 - 👨‍💻 All of my projects are available at [https://harris-personal-portfolio.netlify.app/](https://harris-personal-portfolio.netlify.app/)
 
