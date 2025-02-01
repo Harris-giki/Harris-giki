@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harris-personal-portfolio.netlify.app/](https://harris-personal-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@harris.giki](https://medium.com/@harris.giki)
+- 📝 I write articles on [https://medium.com/@harris.giki](https://medium.com/@harris.giki)
 
 - 📫 How to reach me **harris.giki@gmail.com**
 
