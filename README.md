@@ -8,11 +8,11 @@
 
 - 🤝 I’m looking to help with **software and AI**
 
-- 👨‍💻 All of my projects are available at [https://harris-personal-portfolio.netlify.app/](https://harris-personal-portfolio.netlify.app/)
+- 👨‍💻 Access my Portfolio Website: [Click here](https://m-harris.vercel.app/)
 
 - 📝 I write articles on [https://medium.com/@harris.giki](https://medium.com/@harris.giki)
 
-- 📫 How to reach me **harris.giki@gmail.com**
+- 📫 Reach out to me at my Email: **harris.giki@gmail.com**
 
 
 ### Blogs posts
