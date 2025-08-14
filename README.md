@@ -14,15 +14,6 @@
 
 - 📫 Reach out to me at my Email: **harris.giki@gmail.com**
 
-
-### Blogs posts
-<h3>Exploring the relationship between ADHD and Dementia</h3>
-<a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*OP1qwfq6Tra9TtIVeTCvVw.jpeg" alt="Blog Post Thumbnail" width="400"/>
-</a>
-<p><a href="https://medium.com/@rafaym2608/exploring-the-relationship-between-adhd-and-dementia-08deaf18e207" target="_blank">Read More</a></p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad haris" height="30" width="40" /></a>
